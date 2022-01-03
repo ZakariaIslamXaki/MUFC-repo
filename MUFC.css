@@ -1,0 +1,67 @@
+ #main{
+          text-align: center;
+          color: red;
+          background-color: black;
+          border: 10px solid red;
+          border-radius: 10px;
+          margin: 10px 5px;
+          padding: 10px 10px;
+      }
+      .united{
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 50%;
+      }
+      #scorer{
+          color: red;
+          background-color: black;
+          border: 10px solid red;
+          margin: 10px 5px;
+          padding: 10px 10px;
+      }
+      #appearance{
+          color: red;
+          background-color: black;
+          border: 10px solid red;
+          margin: 10px 5px;
+          padding: 10px 10px;
+      }
+      .wazza{
+          text-align: center;
+      }
+      .rooney{
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 50%;
+      }
+      .giggsy{
+          text-align: center;
+      }
+      .ryan{
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 50%;
+      }
+      #form{
+          color: red;
+          background-color: black;
+          border: 10px solid red;
+          margin: 10px 5px;
+          padding: 10px 10px;
+      }
+      .subscribe{
+          text-align: center;
+      }
+      #social{
+          color: red;
+          background-color: black;
+          border: 10px solid red;
+          margin: 10px 5px;
+          padding: 10px 10px;
+      }
+      .media{
+          text-align: center;
+      }
